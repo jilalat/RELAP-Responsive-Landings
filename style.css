@@ -420,6 +420,8 @@ h1 {
 
 .fugiat-quo > p {
   padding: 23px 0 32px;
+  max-width: 570px;
+  text-align: center;
 }
 
 .fugiat-cards {
@@ -648,6 +650,8 @@ h1 {
 
 .officis-debitis > p {
   padding: 23px 0 64px;
+  max-width: 570px;
+  text-align: center;
 }
 
 .officis-cards {
@@ -751,11 +755,13 @@ h1 {
 
 footer {
   background-image: url(./images/footer-bg.png);
-  padding: 135px 0 74px;
+  padding: 135px 0 64px;
 }
 
 .contact-us > p {
   padding-top: 23px;
+  max-width: 570px;
+  text-align: center;
 }
 
 .email {
